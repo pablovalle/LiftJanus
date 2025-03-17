@@ -1,0 +1,10 @@
+,Unnamed: 0,Installation,Mutation,Exec,Hamming_dist,Num_changes,LWT_diff
+0,9,CiuComs_Febrero_miercoles_oest,1_capacity,9,0.0998102466793168,527,39.5
+1,20,CiuComs_Febrero_miercoles_oest,1_capacity,20,0.101100569259962,527,193.8
+2,66,CiuComs_Febrero_miercoles_oest,1_capacity,66,0.1018216318785578,527,206.0
+3,111,CiuComs_Febrero_miercoles_oest,1_capacity,111,0.1007590132827326,527,167.60000000000002
+4,323,CiuComs_Febrero_miercoles_oest,1_capacity,323,0.1021631878557874,527,216.8
+5,550,CiuComs_Febrero_miercoles_oest,1_capacity,550,0.1000379506641366,527,70.60000000000001
+6,584,CiuComs_Febrero_miercoles_oest,1_capacity,584,0.1061290322580645,527,221.4
+7,715,CiuComs_Febrero_miercoles_oest,1_capacity,715,0.1004933586337761,527,135.8
+8,760,CiuComs_Febrero_miercoles_oest,1_capacity,760,0.1002656546489564,527,102.5

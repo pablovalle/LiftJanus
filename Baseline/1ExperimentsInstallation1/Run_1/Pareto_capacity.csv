@@ -1,0 +1,8 @@
+,Unnamed: 0,Installation,Mutation,Exec,Hamming_dist,Num_changes,LWT_diff
+0,22,Congreso_Diputados_2_7_23,1_capacity,22,0.1002058823529412,340,94.8
+1,47,Congreso_Diputados_2_7_23,1_capacity,47,0.1016764705882352,340,122.5
+2,53,Congreso_Diputados_2_7_23,1_capacity,53,0.1046176470588235,340,203.2
+3,115,Congreso_Diputados_2_7_23,1_capacity,115,0.1021764705882352,339,155.60000000000002
+4,293,Congreso_Diputados_2_7_23,1_capacity,293,0.0997352941176471,340,0.0
+5,475,Congreso_Diputados_2_7_23,1_capacity,475,0.1005882352941176,340,114.6
+6,589,Congreso_Diputados_2_7_23,1_capacity,589,0.1,340,42.19999999999999
